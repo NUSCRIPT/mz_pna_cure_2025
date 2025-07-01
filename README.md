@@ -9,7 +9,7 @@ This project aims to develop a machine learning model to predict successful cure
 |------------------------|------------------------------------|
 | Temperature            | < 37.8 °C (100°F)                  |
 | Heart Rate             | < 100 beats per minute             |
-| Respiratory Rate       | <> 24 breaths per minute            |
+| Respiratory Rate       | < 24 breaths per minute            |
 | Systolic Blood Pressure| > 90 mm Hg                         |
 | Oxygenation            | SpO₂ > 90% or PaO₂ > 60 mm Hg on room air |
 | Oral Intake            | Able to maintain oral intake       |
