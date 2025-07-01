@@ -1,7 +1,8 @@
 # mz_pna_cure_2025
 
 ## Objective
-This project aims to develop a machine learning model to predict successful cure in critically ill patients with community-acquired pneumonia (CAP) enrolled in the SCRIPT study. 
+This project aims to develop a machine learning model to predict successful cure in critically ill patients with community-acquired pneumonia (CAP) enrolled in the SCRIPT study.  
+
 [Halm's criteria](https://doi.org/10.1001/jama.279.18.1452) provide a set of clinical measures to help clinicians evaluate the stability of patients with CAP. Our goal is to use features derived from Halm’s criteria, based on patient data from Episode Day 1 to 3, to predict cure status on Day 7.
 
 | Parameter             | Criterion                          |
